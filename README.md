@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![samko5sam's github stats](https://github-readme-stats.vercel.app/api?username=samko5sam&theme=gruvbox)](https://github.com/samko5sam/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samko5sam&layout=compact&theme=gruvbox)](https://github.com/samko5sam/github-readme-stats)
+
 <!--
 **samko5sam/samko5sam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
