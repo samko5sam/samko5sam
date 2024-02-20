@@ -1,7 +1,14 @@
 ### Hi there 👋
 
-[![samko5sam's github stats](https://github-readme-stats.vercel.app/api?username=samko5sam&theme=gruvbox)](https://github.com/samko5sam/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samko5sam&layout=compact&theme=gruvbox)](https://github.com/samko5sam/github-readme-stats)
+<!--[![samko5sam's github stats](https://github-readme-stats.vercel.app/api?username=samko5sam&theme=gruvbox)](https://github.com/samko5sam/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samko5sam&layout=compact&theme=gruvbox)](https://github.com/samko5sam/github-readme-stats)-->
+
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=samko5sam&theme=dark&layout=compact&card_width=370" />
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samko5sam&theme=vue&layout=compact&card_width=370" />
+  </picture>
+</div>
 
 <!--
 **samko5sam/samko5sam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
