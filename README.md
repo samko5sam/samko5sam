@@ -11,10 +11,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=samko5sam&rank_icon=github&show_icons=true&theme=dark&hide=contribs" />
     <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=samko5sam&show_icons=true&theme=vue&hide=contribs&rank_icon=github" />
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=samko5sam&theme=dark&layout=compact&card_width=370" />
-    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samko5sam&theme=vue&layout=compact&card_width=370" />
-  </picture>
 </div>
 
 <!--
